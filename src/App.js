@@ -34,6 +34,7 @@ function App() {
   }, [cash, setNoSale, people, userShare]);
   
   return (
+   <div className="heightBUG">
     <div className="DIVBOSS">
       <div className="SPLITTER">
         <div> SPLI </div>
@@ -69,6 +70,7 @@ function App() {
             </div>
         </main>     
      </div>
+   </div>   
   );
 }
 

@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@700&display=swap');
 
 body {
-  margin: 0;
   font-family: 'Space Mono', monospace;
   font-weight: 700;
+  background-color: hsl(185, 41%, 84%);
+  min-height: 80%;
 }

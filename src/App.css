@@ -11,9 +11,6 @@ input[type=number] {
   -moz-appearance: textfield;
 }
 
-#root {
-  background-color: hsl(185, 41%, 84%);
-}
 .SPLITTER {
   margin-top: 30px;
   margin-bottom: 30px;
@@ -28,7 +25,6 @@ input[type=number] {
   align-items: center;
   flex-direction: column;
 }
-
 main {
   width: 312px;
   padding: 30px;
